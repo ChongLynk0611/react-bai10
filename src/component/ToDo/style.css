@@ -1,0 +1,13 @@
+th, td {
+    border-bottom: 1px solid black;
+    height: 50px;
+}
+table{
+    width: 100%;
+    
+}
+
+.DongChan{
+    background-color: aqua;
+    height: 40px;
+}
